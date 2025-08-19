@@ -31,11 +31,15 @@ Este Challenge, proporcionado por ALURA LATAM es una aplicación de consola en J
 ---
 
 ## 🧾 Estructura del proyecto
-│
-├── Busqueda.java // Clase que se conecta a la API
-├── Coins.java // Record para mapear los datos del JSON
-├── Conversion.java // Lógica de conversión entre monedas
-├── Menu.java // Menú principal interactivo por consola
+
+
+Busqueda.java // Clase que se conecta a la API
+
+Coins.java // Record para mapear los datos del JSON
+
+Conversion.java // Lógica de conversión entre monedas
+
+Menu.java // Menú principal interactivo por consola
 
 ## 📦 Requisitos
 
@@ -53,6 +57,7 @@ Para que el proyecto funcione, necesitas una API key válida de ExchangeRate-API
 2. Obtén tu API key gratuita.
 3. Sustituye esta línea en `Busqueda.java`:
 
+---
 
 ▶️ Cómo ejecutar el proyecto
 
@@ -64,9 +69,13 @@ Para que el proyecto funcione, necesitas una API key válida de ExchangeRate-API
 
 4.-Sigue las instrucciones del menú en consola.
 
+---
+
 🖼️ Ejemplo de uso
 
 <img width="812" height="472" alt="funcionalidad" src="https://github.com/user-attachments/assets/0021c404-a236-493b-9151-02466f42cad8" />
+
+---
 
 ### 👨‍💻 Autor
 Alumno de Alura Latam G8: Alan Murillo
