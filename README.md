@@ -31,4 +31,39 @@ Este Challenge, proporcionado por ALURA LATAM es una aplicación de consola en J
 ---
 
 ## 🧾 Estructura del proyecto
+│
+├── Busqueda.java // Clase que se conecta a la API
+├── Coins.java // Record para mapear los datos del JSON
+├── Conversion.java // Lógica de conversión entre monedas
+├── Menu.java // Menú principal interactivo por consola
+
+## 📦 Requisitos
+
+- JDK 11 o superior
+- Conexión a Internet (para consultar la API)
+- Biblioteca [Gson](https://github.com/google/gson) agregada al classpath
+
+---
+
+## 🔑 API Key
+
+Para que el proyecto funcione, necesitas una API key válida de ExchangeRate-API.
+
+1. Regístrate en [https://www.exchangerate-api.com/](https://www.exchangerate-api.com/)
+2. Obtén tu API key gratuita.
+3. Sustituye esta línea en `Busqueda.java`:
+
+
+▶️ Cómo ejecutar el proyecto
+
+1.-Clona este repositorio o copia los archivos a tu entorno de desarrollo.
+
+2.-Asegúrate de tener Gson agregado al proyecto (puedes usar Maven, Gradle o añadir el .jar manualmente).
+
+3.-Ejecuta Menu.java como aplicación principal.
+
+4.-Sigue las instrucciones del menú en consola.
+
+🖼️ Ejemplo de uso
+
 
